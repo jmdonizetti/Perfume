@@ -1,7 +1,8 @@
 # Perfume#
 Projeto-Perfume
 
-![preview](preview.PNG)
+![preview](https://user-images.githubusercontent.com/112431459/203663361-52b749ff-e535-4d3e-aa7e-9b36668ddc5b.PNG)
+w.PNG)
 
 Projeto construido do desafio Front-end Mentor
 
